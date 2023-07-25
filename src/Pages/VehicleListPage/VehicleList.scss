@@ -1,0 +1,17 @@
+.VehicleList{
+    border: 1px solid;
+    &-table{
+        width:100%;
+        &-head{
+         width: 30%;
+          background-color: rgb(170, 163, 163);
+          border: 1px solid black;
+        }
+
+        &-tbody{
+            border: 1px solid black;
+            width:30;
+            background-color: rgb(137, 128, 128);
+        }
+    }
+}

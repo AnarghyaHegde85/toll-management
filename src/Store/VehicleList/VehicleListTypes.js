@@ -1,0 +1,4 @@
+export const VEHICLE_LIST="VEHICLE_LIST";
+export const SHOW_DAILOG_VEHICLE ="SHOW_DAILOG_VEHICLE";
+export const DATA_FILTER='DATA_FILTER';
+export const DATA_SEARCH = 'DATA_SEARCH';
